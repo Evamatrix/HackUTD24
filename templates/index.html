@@ -46,12 +46,12 @@
                         let resultsHtml = '<table><tr><th>Year</th><th>Model</th><th>Fuel</th><th>City MPG</th><th>Hwy MPG</th><th>Cmb MPG</th></tr>';
                         data.forEach(function(vehicle) {
                             resultsHtml += `<tr>
-                                <td>${vehicle.Year}</td>
+                                <td>${vehicle.['Year']}</td>
                                 <td>${vehicle.Model}</td>
-                                <td>${vehicle['Fuel Type']}</td>
-                                <td>${vehicle['MPG City']}</td>
-                                <td>${vehicle['MPG Highway']}</td>
-                                <td>${vehicle['MPG Combined']}</td>
+                                <td>${vehicle['Fuel']}</td>
+                                <td>${vehicle['City MPG']}</td>
+                                <td>${vehicle['Hwy MPG']}</td>
+                                <td>${vehicle['Cmb MPG']}</td>
                             </tr>`;
                         });
                         resultsHtml += '</table>';
