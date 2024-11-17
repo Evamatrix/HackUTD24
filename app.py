@@ -29,7 +29,6 @@ def get_vehicles():
     # Filter data based on query parameters
     if year:
         data = [v for v in data if v['Year'] == year]
-        print(year)
     if model:
         data = [v for v in data if model.lower() in v['Model'].lower()]
     if fuel_type:
