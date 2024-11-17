@@ -22,7 +22,7 @@ def home():
 def get_vehicles():
     year = request.args.get('year')
     model = request.args.get('model')
-    fuel_type = request.args.get('fuel_type')
+    fuel_type = request.args.get('fuel')
 
     data = load_data()
 
@@ -32,7 +32,7 @@ def get_vehicles():
     if model:
         data = [v for v in data if model.lower() in v['Model'].lower()]
     if fuel_type:
-        data = [v for v in data if v['Fuel Type'] == fuel_type]
+        data = [v for v in data if v['Fuel'] == fuel_type]
 
     return jsonify(data)
 
