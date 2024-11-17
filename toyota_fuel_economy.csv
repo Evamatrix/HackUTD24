@@ -1,0 +1,633 @@
+﻿Year,Model,Fuel,Air Pollution Score,City MPG,Hwy MPG,Cmb MPG
+2021,TOYOTA 4Runner,Gasoline,5,16,19,17
+2021,TOYOTA 4Runner,Gasoline,5,16,19,17
+2021,TOYOTA 4Runner,Gasoline,5,16,19,17
+2021,TOYOTA 4Runner,Gasoline,5,16,19,17
+2021,TOYOTA Avalon,Gasoline,6,25,34,28
+2021,TOYOTA Avalon,Gasoline,6,25,34,28
+2021,TOYOTA Avalon,Gasoline,5,22,31,25
+2021,TOYOTA Avalon,Gasoline,5,22,31,25
+2021,TOYOTA Avalon Hybrid,Gasoline,7,43,43,43
+2021,TOYOTA Avalon Hybrid,Gasoline,7,43,43,43
+2021,TOYOTA Avalon Hybrid XLE,Gasoline,7,43,44,44
+2021,TOYOTA Avalon Hybrid XLE,Gasoline,7,43,44,44
+2021,TOYOTA Avalon TRD,Gasoline,5,21,30,25
+2021,TOYOTA Avalon TRD,Gasoline,5,21,30,25
+2021,TOYOTA Avalon XLE,Gasoline,5,22,32,26
+2021,TOYOTA Avalon XLE,Gasoline,5,22,32,26
+2021,TOYOTA C-HR,Gasoline,3,27,31,29
+2021,TOYOTA C-HR,Gasoline,3,27,31,29
+2021,TOYOTA Camry,Gasoline,5,22,33,26
+2021,TOYOTA Camry,Gasoline,5,22,33,26
+2021,TOYOTA Camry Hybrid LE,Gasoline,7,51,53,52
+2021,TOYOTA Camry Hybrid LE,Gasoline,7,51,53,52
+2021,TOYOTA Camry Hybrid SE/XLE/XSE,Gasoline,7,44,47,46
+2021,TOYOTA Camry Hybrid SE/XLE/XSE,Gasoline,7,44,47,46
+2021,TOYOTA Camry LE/SE,Gasoline,7,28,39,32
+2021,TOYOTA Camry LE/SE,Gasoline,7,28,39,32
+2021,TOYOTA Camry LE/SE,Gasoline,6,25,34,29
+2021,TOYOTA Camry LE/SE,Gasoline,6,25,34,29
+2021,TOYOTA Camry TRD,Gasoline,5,22,31,25
+2021,TOYOTA Camry TRD,Gasoline,5,22,31,25
+2021,TOYOTA Camry XLE/XSE,Gasoline,7,27,38,31
+2021,TOYOTA Camry XLE/XSE,Gasoline,7,27,38,31
+2021,TOYOTA Camry XLE/XSE,Gasoline,6,25,34,28
+2021,TOYOTA Camry XLE/XSE,Gasoline,6,25,34,28
+2021,TOYOTA Camry XSE,Gasoline,5,22,32,26
+2021,TOYOTA Camry XSE,Gasoline,5,22,32,26
+2021,TOYOTA Corolla,Gasoline,5,30,38,33
+2021,TOYOTA Corolla,Gasoline,5,30,38,33
+2021,TOYOTA Corolla,Gasoline,5,29,39,33
+2021,TOYOTA Corolla,Gasoline,5,29,39,33
+2021,TOYOTA Corolla,Gasoline,7,29,36,32
+2021,TOYOTA Corolla,Gasoline,7,29,36,32
+2021,TOYOTA Corolla,Gasoline,7,31,40,34
+2021,TOYOTA Corolla,Gasoline,7,31,40,34
+2021,TOYOTA Corolla Apex,Gasoline,7,28,36,31
+2021,TOYOTA Corolla Apex,Gasoline,7,28,36,31
+2021,TOYOTA Corolla Apex,Gasoline,7,31,38,34
+2021,TOYOTA Corolla Apex,Gasoline,7,31,38,34
+2021,TOYOTA Corolla Hatchback,Gasoline,7,28,37,31
+2021,TOYOTA Corolla Hatchback,Gasoline,7,28,37,31
+2021,TOYOTA Corolla Hatchback,Gasoline,7,32,41,35
+2021,TOYOTA Corolla Hatchback,Gasoline,7,32,41,35
+2021,TOYOTA Corolla Hatchback XSE,Gasoline,7,30,38,33
+2021,TOYOTA Corolla Hatchback XSE,Gasoline,7,30,38,33
+2021,TOYOTA Corolla Hybrid,Gasoline,7,53,52,52
+2021,TOYOTA Corolla Hybrid,Gasoline,7,53,52,52
+2021,TOYOTA Corolla XLE,Gasoline,5,29,37,32
+2021,TOYOTA Corolla XLE,Gasoline,5,29,37,32
+2021,TOYOTA Corolla XSE,Gasoline,7,31,38,34
+2021,TOYOTA Corolla XSE,Gasoline,7,31,38,34
+2021,TOYOTA Highlander,Gasoline,5,20,28,23
+2021,TOYOTA Highlander,Gasoline,5,21,29,24
+2021,TOYOTA Highlander,Gasoline,5,20,28,23
+2021,TOYOTA Highlander,Gasoline,5,21,29,24
+2021,TOYOTA Highlander,Gasoline,5,20,27,23
+2021,TOYOTA Highlander,Gasoline,5,20,27,23
+2021,TOYOTA Highlander Hybrid,Gasoline,7,36,35,36
+2021,TOYOTA Highlander Hybrid,Gasoline,7,36,35,36
+2021,TOYOTA Highlander Hybrid,Gasoline,7,35,35,35
+2021,TOYOTA Highlander Hybrid,Gasoline,7,35,35,35
+2021,TOYOTA Highlander Hybrid LTD/PLAT,Gasoline,7,35,34,35
+2021,TOYOTA Highlander Hybrid LTD/PLAT,Gasoline,7,35,34,35
+2021,TOYOTA Land Cruiser,Gasoline,3,13,17,14
+2021,TOYOTA Land Cruiser,Gasoline,3,13,17,14
+2021,TOYOTA Mirai Limited,Hydrogen,10,67,64,65
+2021,TOYOTA Mirai Limited,Hydrogen,10,67,64,65
+2021,TOYOTA Mirai XLE,Hydrogen,10,76,71,74
+2021,TOYOTA Mirai XLE,Hydrogen,10,76,71,74
+2021,TOYOTA Prius,Gasoline,7,54,50,52
+2021,TOYOTA Prius,Gasoline,7,54,50,52
+2021,TOYOTA Prius,Gasoline,7,51,47,49
+2021,TOYOTA Prius,Gasoline,7,51,47,49
+2021,TOYOTA Prius Eco,Gasoline,7,58,53,56
+2021,TOYOTA Prius Eco,Gasoline,7,58,53,56
+2021,TOYOTA Prius Prime,Gasoline/Electricity,7,55/145,53/121,54/133
+2021,TOYOTA Prius Prime,Gasoline/Electricity,7,55/145,53/121,54/133
+2021,TOYOTA RAV4,Gasoline,6,27,35,30
+2021,TOYOTA RAV4,Gasoline,6,28,35,30
+2021,TOYOTA RAV4,Gasoline,6,27,35,30
+2021,TOYOTA RAV4,Gasoline,6,28,35,30
+2021,TOYOTA RAV4,Gasoline,6,25,33,28
+2021,TOYOTA RAV4,Gasoline,6,27,33,29
+2021,TOYOTA RAV4,Gasoline,6,25,33,28
+2021,TOYOTA RAV4,Gasoline,6,27,33,29
+2021,TOYOTA RAV4 Hybrid,Gasoline,7,41,38,40
+2021,TOYOTA RAV4 Hybrid,Gasoline,7,41,38,40
+2021,TOYOTA RAV4 LE,Gasoline,6,27,34,30
+2021,TOYOTA RAV4 LE,Gasoline,6,27,34,30
+2021,TOYOTA RAV4 PRIME,Gasoline/Electricity,7,40/105,36/84,38/94
+2021,TOYOTA RAV4 PRIME,Gasoline/Electricity,7,40/105,36/84,38/94
+2021,TOYOTA RAV4 TRD Offroad,Gasoline,6,25,32,28
+2021,TOYOTA RAV4 TRD Offroad,Gasoline,6,25,32,28
+2021,TOYOTA Sequoia,Gasoline,5,13,17,15
+2021,TOYOTA Sequoia,Gasoline,5,13,17,15
+2021,TOYOTA Sequoia,Gasoline,5,13,17,14
+2021,TOYOTA Sequoia,Gasoline,5,13,17,14
+2021,TOYOTA Sienna,Gasoline,7,36,36,36
+2021,TOYOTA Sienna,Gasoline,7,36,36,36
+2021,TOYOTA Sienna,Gasoline,7,35,36,35
+2021,TOYOTA Sienna,Gasoline,7,35,36,35
+2021,TOYOTA Supra 2.0,Gasoline,7,25,32,28
+2021,TOYOTA Supra 2.0,Gasoline,7,25,32,28
+2021,TOYOTA Supra 3.0,Gasoline,5,22,30,25
+2021,TOYOTA Supra 3.0,Gasoline,5,22,30,25
+2021,TOYOTA Tacoma,Gasoline,5,20,23,21
+2021,TOYOTA Tacoma,Gasoline,5,20,23,21
+2021,TOYOTA Tacoma,Gasoline,5,19,22,20
+2021,TOYOTA Tacoma,Gasoline,5,19,22,20
+2021,TOYOTA Tacoma,Gasoline,5,17,21,18
+2021,TOYOTA Tacoma,Gasoline,5,17,21,18
+2021,TOYOTA Tacoma,Gasoline,5,19,24,21
+2021,TOYOTA Tacoma,Gasoline,5,19,24,21
+2021,TOYOTA Tacoma,Gasoline,5,18,22,20
+2021,TOYOTA Tacoma,Gasoline,5,18,22,20
+2021,TOYOTA Tacoma D-CAB MT TRD-ORP/PRO,Gasoline,5,17,20,18
+2021,TOYOTA Tacoma D-CAB MT TRD-ORP/PRO,Gasoline,5,17,20,18
+2021,TOYOTA Tundra,Gasoline,5,13,17,15
+2021,TOYOTA Tundra,Gasoline,5,13,17,15
+2021,TOYOTA Tundra,Gasoline,5,13,17,14
+2021,TOYOTA Tundra,Gasoline,5,13,17,14
+2021,TOYOTA Venza,Gasoline,7,40,37,39
+2021,TOYOTA Venza,Gasoline,7,40,37,39
+2022,TOYOTA 4Runner,Gasoline,5,16,19,17
+2022,TOYOTA 4Runner,Gasoline,5,16,19,17
+2022,TOYOTA 4Runner,Gasoline,5,16,19,17
+2022,TOYOTA 4Runner,Gasoline,5,16,19,17
+2022,TOYOTA 4Runner,Gasoline,5,16,19,17
+2022,TOYOTA 4Runner,Gasoline,5,16,19,17
+2022,TOYOTA Avalon,Gasoline,5,22,31,25
+2022,TOYOTA Avalon,Gasoline,5,22,31,25
+2022,TOYOTA Avalon Hybrid,Gasoline,7,43,43,43
+2022,TOYOTA Avalon Hybrid,Gasoline,7,43,43,43
+2022,TOYOTA Avalon Hybrid XLE,Gasoline,7,43,44,44
+2022,TOYOTA Avalon Hybrid XLE,Gasoline,7,43,44,44
+2022,TOYOTA Avalon XLE,Gasoline,5,22,32,26
+2022,TOYOTA Avalon XLE,Gasoline,5,22,32,26
+2022,TOYOTA C-HR,Gasoline,3,27,31,29
+2022,TOYOTA C-HR,Gasoline,3,27,31,29
+2022,TOYOTA Camry,Gasoline,5,22,33,26
+2022,TOYOTA Camry,Gasoline,5,22,33,26
+2022,TOYOTA Camry Hybrid LE,Gasoline,7,51,53,52
+2022,TOYOTA Camry Hybrid LE,Gasoline,7,51,53,52
+2022,TOYOTA Camry Hybrid SE/XLE/XSE,Gasoline,7,44,47,46
+2022,TOYOTA Camry Hybrid SE/XLE/XSE,Gasoline,7,44,47,46
+2022,TOYOTA Camry LE/SE,Gasoline,7,28,39,32
+2022,TOYOTA Camry LE/SE,Gasoline,7,28,39,32
+2022,TOYOTA Camry LE/SE,Gasoline,6,25,34,29
+2022,TOYOTA Camry LE/SE,Gasoline,6,25,34,29
+2022,TOYOTA Camry TRD,Gasoline,5,22,31,25
+2022,TOYOTA Camry TRD,Gasoline,5,22,31,25
+2022,TOYOTA Camry XLE/XSE,Gasoline,7,27,38,31
+2022,TOYOTA Camry XLE/XSE,Gasoline,7,27,38,31
+2022,TOYOTA Camry XLE/XSE,Gasoline,6,25,34,28
+2022,TOYOTA Camry XLE/XSE,Gasoline,6,25,34,28
+2022,TOYOTA Camry XSE,Gasoline,5,22,32,26
+2022,TOYOTA Camry XSE,Gasoline,5,22,32,26
+2022,TOYOTA Corolla,Gasoline,5,30,38,33
+2022,TOYOTA Corolla,Gasoline,5,30,38,33
+2022,TOYOTA Corolla,Gasoline,5,29,39,33
+2022,TOYOTA Corolla,Gasoline,5,29,39,33
+2022,TOYOTA Corolla,Gasoline,7,29,36,32
+2022,TOYOTA Corolla,Gasoline,7,29,36,32
+2022,TOYOTA Corolla,Gasoline,7,31,40,34
+2022,TOYOTA Corolla,Gasoline,7,31,40,34
+2022,TOYOTA Corolla Apex,Gasoline,7,28,36,31
+2022,TOYOTA Corolla Apex,Gasoline,7,28,36,31
+2022,TOYOTA Corolla Apex,Gasoline,7,31,38,34
+2022,TOYOTA Corolla Apex,Gasoline,7,31,38,34
+2022,TOYOTA Corolla Cross,Gasoline,7,31,33,32
+2022,TOYOTA Corolla Cross,Gasoline,7,31,33,32
+2022,TOYOTA Corolla Cross,Gasoline,7,29,32,30
+2022,TOYOTA Corolla Cross,Gasoline,7,29,32,30
+2022,TOYOTA Corolla Hatchback,Gasoline,7,28,36,31
+2022,TOYOTA Corolla Hatchback,Gasoline,7,28,36,31
+2022,TOYOTA Corolla Hatchback,Gasoline,7,32,41,35
+2022,TOYOTA Corolla Hatchback,Gasoline,7,32,41,35
+2022,TOYOTA Corolla Hatchback XSE,Gasoline,7,30,38,33
+2022,TOYOTA Corolla Hatchback XSE,Gasoline,7,30,38,33
+2022,TOYOTA Corolla Hybrid,Gasoline,7,53,52,52
+2022,TOYOTA Corolla Hybrid,Gasoline,7,53,52,52
+2022,TOYOTA Corolla XLE,Gasoline,5,29,37,32
+2022,TOYOTA Corolla XLE,Gasoline,5,29,37,32
+2022,TOYOTA Corolla XSE,Gasoline,7,31,38,34
+2022,TOYOTA Corolla XSE,Gasoline,7,31,38,34
+2022,TOYOTA GR86,Gasoline,3,20,27,22
+2022,TOYOTA GR86,Gasoline,3,20,27,22
+2022,TOYOTA GR86,Gasoline,3,21,31,25
+2022,TOYOTA GR86,Gasoline,3,21,31,25
+2022,TOYOTA Highlander,Gasoline,5,20,28,23
+2022,TOYOTA Highlander,Gasoline,5,21,29,24
+2022,TOYOTA Highlander,Gasoline,5,20,28,23
+2022,TOYOTA Highlander,Gasoline,5,21,29,24
+2022,TOYOTA Highlander,Gasoline,5,20,27,23
+2022,TOYOTA Highlander,Gasoline,5,20,27,23
+2022,TOYOTA Highlander Hybrid,Gasoline,7,36,35,36
+2022,TOYOTA Highlander Hybrid,Gasoline,7,36,35,36
+2022,TOYOTA Highlander Hybrid,Gasoline,7,35,35,35
+2022,TOYOTA Highlander Hybrid,Gasoline,7,35,35,35
+2022,TOYOTA Highlander Hybrid LTD/PLAT,Gasoline,7,35,34,35
+2022,TOYOTA Highlander Hybrid LTD/PLAT,Gasoline,7,35,34,35
+2022,TOYOTA Mirai LE,Hydrogen,10,76,71,74
+2022,TOYOTA Mirai LE,Hydrogen,10,76,71,74
+2022,TOYOTA Mirai Limited,Hydrogen,10,67,64,65
+2022,TOYOTA Mirai Limited,Hydrogen,10,67,64,65
+2022,TOYOTA Mirai XLE,Hydrogen,10,76,71,74
+2022,TOYOTA Mirai XLE,Hydrogen,10,76,71,74
+2022,TOYOTA Prius,Gasoline,7,54,50,52
+2022,TOYOTA Prius,Gasoline,7,54,50,52
+2022,TOYOTA Prius,Gasoline,7,51,47,49
+2022,TOYOTA Prius,Gasoline,7,51,47,49
+2022,TOYOTA Prius Eco,Gasoline,7,58,53,56
+2022,TOYOTA Prius Eco,Gasoline,7,58,53,56
+2022,TOYOTA Prius Prime,Gasoline/Electricity,7,55/145,53/121,54/133
+2022,TOYOTA Prius Prime,Gasoline/Electricity,7,55/145,53/121,54/133
+2022,TOYOTA RAV4,Gasoline,7,27,35,30
+2022,TOYOTA RAV4,Gasoline,7,27,35,30
+2022,TOYOTA RAV4,Gasoline,7,27,35,30
+2022,TOYOTA RAV4,Gasoline,7,27,35,30
+2022,TOYOTA RAV4,Gasoline,6,25,33,28
+2022,TOYOTA RAV4,Gasoline,6,27,33,29
+2022,TOYOTA RAV4,Gasoline,6,25,33,28
+2022,TOYOTA RAV4,Gasoline,6,27,33,29
+2022,TOYOTA RAV4 Hybrid,Gasoline,7,41,38,40
+2022,TOYOTA RAV4 Hybrid,Gasoline,7,41,38,40
+2022,TOYOTA RAV4 LE,Gasoline,6,27,34,30
+2022,TOYOTA RAV4 LE,Gasoline,6,27,34,30
+2022,TOYOTA RAV4 PRIME,Gasoline/Electricity,7,40/105,36/84,38/94
+2022,TOYOTA RAV4 PRIME,Gasoline/Electricity,7,40/105,36/84,38/94
+2022,TOYOTA RAV4 TRD Offroad,Gasoline,6,25,32,28
+2022,TOYOTA RAV4 TRD Offroad,Gasoline,6,25,32,28
+2022,TOYOTA Sequoia,Gasoline,5,13,17,15
+2022,TOYOTA Sequoia,Gasoline,5,13,17,15
+2022,TOYOTA Sequoia,Gasoline,5,13,17,14
+2022,TOYOTA Sequoia,Gasoline,5,13,17,14
+2022,TOYOTA Sienna,Gasoline,7,36,36,36
+2022,TOYOTA Sienna,Gasoline,7,36,36,36
+2022,TOYOTA Sienna,Gasoline,7,35,36,35
+2022,TOYOTA Sienna,Gasoline,7,35,36,35
+2022,TOYOTA Supra 2.0,Gasoline,7,25,32,28
+2022,TOYOTA Supra 2.0,Gasoline,7,25,32,28
+2022,TOYOTA Supra 3.0,Gasoline,5,22,30,25
+2022,TOYOTA Supra 3.0,Gasoline,5,22,30,25
+2022,TOYOTA Tacoma,Gasoline,5,20,23,21
+2022,TOYOTA Tacoma,Gasoline,5,20,23,21
+2022,TOYOTA Tacoma,Gasoline,5,19,22,20
+2022,TOYOTA Tacoma,Gasoline,5,19,22,20
+2022,TOYOTA Tacoma,Gasoline,5,17,21,18
+2022,TOYOTA Tacoma,Gasoline,5,17,21,18
+2022,TOYOTA Tacoma,Gasoline,5,19,24,21
+2022,TOYOTA Tacoma,Gasoline,5,19,24,21
+2022,TOYOTA Tacoma,Gasoline,5,18,22,20
+2022,TOYOTA Tacoma,Gasoline,5,18,22,20
+2022,TOYOTA Tacoma D-CAB MT TRD-ORP/PRO,Gasoline,5,17,20,18
+2022,TOYOTA Tacoma D-CAB MT TRD-ORP/PRO,Gasoline,5,17,20,18
+2022,TOYOTA Tundra,Gasoline,5,20,24,22
+2022,TOYOTA Tundra,Gasoline,5,20,24,22
+2022,TOYOTA Tundra,Gasoline,5,18,23,20
+2022,TOYOTA Tundra,Gasoline,5,18,24,20
+2022,TOYOTA Tundra,Gasoline,5,18,23,20
+2022,TOYOTA Tundra,Gasoline,5,18,24,20
+2022,TOYOTA Tundra,Gasoline,5,19,22,20
+2022,TOYOTA Tundra,Gasoline,5,19,22,20
+2022,TOYOTA Tundra,Gasoline,5,17,22,19
+2022,TOYOTA Tundra,Gasoline,5,17,23,19
+2022,TOYOTA Tundra,Gasoline,5,17,22,19
+2022,TOYOTA Tundra,Gasoline,5,17,23,19
+2022,TOYOTA Tundra PRO,Gasoline,5,18,20,19
+2022,TOYOTA Tundra PRO,Gasoline,5,18,20,19
+2022,TOYOTA Venza,Gasoline,7,40,37,39
+2022,TOYOTA Venza,Gasoline,7,40,37,39
+2023,TOYOTA 4Runner,Gasoline,5,16,19,17
+2023,TOYOTA 4Runner,Gasoline,5,16,19,17
+2023,TOYOTA 4Runner,Gasoline,5,16,19,17
+2023,TOYOTA 4Runner,Gasoline,5,16,19,17
+2023,TOYOTA 4Runner,Gasoline,5,16,19,17
+2023,TOYOTA 4Runner,Gasoline,5,16,19,17
+2023,TOYOTA Camry,Gasoline,5,22,33,26
+2023,TOYOTA Camry,Gasoline,5,22,33,26
+2023,TOYOTA Camry Hybrid LE,Gasoline,7,51,53,52
+2023,TOYOTA Camry Hybrid LE,Gasoline,7,51,53,52
+2023,TOYOTA Camry Hybrid SE/XLE/XSE,Gasoline,7,44,47,46
+2023,TOYOTA Camry Hybrid SE/XLE/XSE,Gasoline,7,44,47,46
+2023,TOYOTA Camry LE/SE,Gasoline,7,28,39,32
+2023,TOYOTA Camry LE/SE,Gasoline,7,28,39,32
+2023,TOYOTA Camry LE/SE,Gasoline,7,28,39,32
+2023,TOYOTA Camry LE/SE,Gasoline,7,28,39,32
+2023,TOYOTA Camry LE/SE,Gasoline,6,25,34,29
+2023,TOYOTA Camry LE/SE,Gasoline,6,25,34,29
+2023,TOYOTA Camry TRD,Gasoline,5,22,31,25
+2023,TOYOTA Camry TRD,Gasoline,5,22,31,25
+2023,TOYOTA Camry XLE/XSE,Gasoline,7,27,38,31
+2023,TOYOTA Camry XLE/XSE,Gasoline,7,27,38,31
+2023,TOYOTA Camry XLE/XSE,Gasoline,6,25,34,28
+2023,TOYOTA Camry XLE/XSE,Gasoline,6,25,34,28
+2023,TOYOTA Camry XSE,Gasoline,5,22,32,26
+2023,TOYOTA Camry XSE,Gasoline,5,22,32,26
+2023,TOYOTA Corolla,Gasoline,7,31,40,34
+2023,TOYOTA Corolla,Gasoline,7,32,41,35
+2023,TOYOTA Corolla,Gasoline,7,31,40,34
+2023,TOYOTA Corolla,Gasoline,7,32,41,35
+2023,TOYOTA Corolla Cross,Gasoline,7,31,33,32
+2023,TOYOTA Corolla Cross,Gasoline,7,31,33,32
+2023,TOYOTA Corolla Cross,Gasoline,7,29,32,30
+2023,TOYOTA Corolla Cross,Gasoline,7,29,32,30
+2023,TOYOTA Corolla Cross Hybrid,Gasoline,7,45,38,42
+2023,TOYOTA Corolla Cross Hybrid,Gasoline,7,45,38,42
+2023,TOYOTA Corolla Hatchback,Gasoline,7,32,41,35
+2023,TOYOTA Corolla Hatchback,Gasoline,7,32,41,35
+2023,TOYOTA Corolla Hatchback XSE,Gasoline,7,30,38,33
+2023,TOYOTA Corolla Hatchback XSE,Gasoline,7,30,38,33
+2023,TOYOTA Corolla Hybrid,Gasoline,7,50,43,47
+2023,TOYOTA Corolla Hybrid,Gasoline,7,53,46,50
+2023,TOYOTA Corolla Hybrid,Gasoline,7,50,43,47
+2023,TOYOTA Corolla Hybrid,Gasoline,7,53,46,50
+2023,TOYOTA Corolla Hybrid,Gasoline,7,47,41,44
+2023,TOYOTA Corolla Hybrid,Gasoline,7,51,44,48
+2023,TOYOTA Corolla Hybrid,Gasoline,7,47,41,44
+2023,TOYOTA Corolla Hybrid,Gasoline,7,51,44,48
+2023,TOYOTA GR Corolla,Gasoline,5,21,28,24
+2023,TOYOTA GR Corolla,Gasoline,5,21,28,24
+2023,TOYOTA GR86,Gasoline,3,20,27,22
+2023,TOYOTA GR86,Gasoline,3,20,27,22
+2023,TOYOTA GR86,Gasoline,3,21,31,25
+2023,TOYOTA GR86,Gasoline,3,21,31,25
+2023,TOYOTA Highlander,Gasoline,7,21,28,24
+2023,TOYOTA Highlander,Gasoline,7,22,29,25
+2023,TOYOTA Highlander,Gasoline,7,21,28,24
+2023,TOYOTA Highlander,Gasoline,7,22,29,25
+2023,TOYOTA Highlander,Gasoline,7,21,28,24
+2023,TOYOTA Highlander,Gasoline,7,21,28,24
+2023,TOYOTA Highlander Hybrid,Gasoline,7,36,35,36
+2023,TOYOTA Highlander Hybrid,Gasoline,7,36,35,36
+2023,TOYOTA Highlander Hybrid,Gasoline,7,35,35,35
+2023,TOYOTA Highlander Hybrid,Gasoline,7,35,35,35
+2023,TOYOTA Highlander Hybrid LTD/PLAT,Gasoline,7,35,34,35
+2023,TOYOTA Highlander Hybrid LTD/PLAT,Gasoline,7,35,34,35
+2023,TOYOTA Mirai LE,Hydrogen,10,76,71,74
+2023,TOYOTA Mirai LE,Hydrogen,10,76,71,74
+2023,TOYOTA Mirai Limited,Hydrogen,10,67,64,65
+2023,TOYOTA Mirai Limited,Hydrogen,10,67,64,65
+2023,TOYOTA Mirai XLE,Hydrogen,10,76,71,74
+2023,TOYOTA Mirai XLE,Hydrogen,10,76,71,74
+2023,TOYOTA Prius,Gasoline,7,57,56,57
+2023,TOYOTA Prius,Gasoline,7,57,56,57
+2023,TOYOTA Prius,Gasoline,7,53,54,54
+2023,TOYOTA Prius,Gasoline,7,53,54,54
+2023,TOYOTA Prius Prime,Gasoline/Electricity,7,50/125,47/103,48/114
+2023,TOYOTA Prius Prime,Gasoline/Electricity,7,50/125,47/103,48/114
+2023,TOYOTA Prius Prime SE,Gasoline/Electricity,7,53/140,51/115,52/127
+2023,TOYOTA Prius Prime SE,Gasoline/Electricity,7,53/140,51/115,52/127
+2023,TOYOTA Prius XLE/LTD,Gasoline,7,52,52,52
+2023,TOYOTA Prius XLE/LTD,Gasoline,7,52,52,52
+2023,TOYOTA Prius XLE/LTD,Gasoline,7,49,50,49
+2023,TOYOTA Prius XLE/LTD,Gasoline,7,49,50,49
+2023,TOYOTA RAV4,Gasoline,7,27,34,30
+2023,TOYOTA RAV4,Gasoline,7,27,35,30
+2023,TOYOTA RAV4,Gasoline,7,27,34,30
+2023,TOYOTA RAV4,Gasoline,7,27,35,30
+2023,TOYOTA RAV4,Gasoline,6,25,33,28
+2023,TOYOTA RAV4,Gasoline,6,27,33,29
+2023,TOYOTA RAV4,Gasoline,6,25,33,28
+2023,TOYOTA RAV4,Gasoline,6,27,33,29
+2023,TOYOTA RAV4 Hybrid,Gasoline,7,41,38,40
+2023,TOYOTA RAV4 Hybrid,Gasoline,7,41,38,40
+2023,TOYOTA RAV4 Hybrid Woodland Edition,Gasoline,7,38,35,37
+2023,TOYOTA RAV4 Hybrid Woodland Edition,Gasoline,7,38,35,37
+2023,TOYOTA RAV4 LE,Gasoline,6,27,34,30
+2023,TOYOTA RAV4 LE,Gasoline,6,27,34,30
+2023,TOYOTA RAV4 PRIME,Gasoline/Electricity,7,40/105,36/84,38/94
+2023,TOYOTA RAV4 PRIME,Gasoline/Electricity,7,40/105,36/84,38/94
+2023,TOYOTA RAV4 TRD Offroad,Gasoline,6,25,32,28
+2023,TOYOTA RAV4 TRD Offroad,Gasoline,6,25,32,28
+2023,TOYOTA Sequoia,Gasoline,5,21,24,22
+2023,TOYOTA Sequoia,Gasoline,5,21,24,22
+2023,TOYOTA Sequoia,Gasoline,5,19,22,20
+2023,TOYOTA Sequoia,Gasoline,5,19,22,20
+2023,TOYOTA Sienna,Gasoline,7,36,36,36
+2023,TOYOTA Sienna,Gasoline,7,36,36,36
+2023,TOYOTA Sienna,Gasoline,7,35,36,35
+2023,TOYOTA Sienna,Gasoline,7,35,36,35
+2023,TOYOTA Supra 2.0,Gasoline,7,25,31,27
+2023,TOYOTA Supra 2.0,Gasoline,7,25,31,27
+2023,TOYOTA Supra 3.0,Gasoline,5,19,27,21
+2023,TOYOTA Supra 3.0,Gasoline,5,19,27,21
+2023,TOYOTA Supra 3.0,Gasoline,5,23,31,26
+2023,TOYOTA Supra 3.0,Gasoline,5,23,31,26
+2023,TOYOTA Tacoma,Gasoline,5,20,23,21
+2023,TOYOTA Tacoma,Gasoline,5,20,23,21
+2023,TOYOTA Tacoma,Gasoline,5,19,22,20
+2023,TOYOTA Tacoma,Gasoline,5,19,22,20
+2023,TOYOTA Tacoma,Gasoline,5,17,21,18
+2023,TOYOTA Tacoma,Gasoline,5,17,21,18
+2023,TOYOTA Tacoma,Gasoline,5,19,24,21
+2023,TOYOTA Tacoma,Gasoline,5,19,24,21
+2023,TOYOTA Tacoma,Gasoline,5,18,22,20
+2023,TOYOTA Tacoma,Gasoline,5,18,22,20
+2023,TOYOTA Tacoma D-CAB MT TRD-ORP/PRO,Gasoline,5,17,20,18
+2023,TOYOTA Tacoma D-CAB MT TRD-ORP/PRO,Gasoline,5,17,20,18
+2023,TOYOTA Toyota Crown,Gasoline,7,29,32,30
+2023,TOYOTA Toyota Crown,Gasoline,7,29,32,30
+2023,TOYOTA Toyota Crown,Gasoline,7,42,41,41
+2023,TOYOTA Toyota Crown,Gasoline,7,42,41,41
+2023,TOYOTA Tundra,Gasoline,5,20,24,22
+2023,TOYOTA Tundra,Gasoline,5,20,24,22
+2023,TOYOTA Tundra,Gasoline,5,18,23,20
+2023,TOYOTA Tundra,Gasoline,5,18,24,20
+2023,TOYOTA Tundra,Gasoline,5,18,23,20
+2023,TOYOTA Tundra,Gasoline,5,18,24,20
+2023,TOYOTA Tundra,Gasoline,5,19,22,20
+2023,TOYOTA Tundra,Gasoline,5,19,22,20
+2023,TOYOTA Tundra,Gasoline,5,17,22,19
+2023,TOYOTA Tundra,Gasoline,5,17,23,19
+2023,TOYOTA Tundra,Gasoline,5,17,22,19
+2023,TOYOTA Tundra,Gasoline,5,17,23,19
+2023,TOYOTA Tundra PRO,Gasoline,5,18,20,19
+2023,TOYOTA Tundra PRO,Gasoline,5,18,20,19
+2023,TOYOTA Venza,Gasoline,7,40,37,39
+2023,TOYOTA Venza,Gasoline,7,40,37,39
+2023,TOYOTA bZ4X,Electricity,10,131,107,119
+2023,TOYOTA bZ4X,Electricity,10,131,107,119
+2023,TOYOTA bZ4X,Electricity,10,114,94,104
+2023,TOYOTA bZ4X,Electricity,10,114,94,104
+2023,TOYOTA bZ4X Limited,Electricity,10,125,103,114
+2023,TOYOTA bZ4X Limited,Electricity,10,125,103,114
+2023,TOYOTA bZ4X Limited,Electricity,10,112,92,102
+2023,TOYOTA bZ4X Limited,Electricity,10,112,92,102
+2024,TOYOTA 4Runner,Gasoline,5,16,19,17
+2024,TOYOTA 4Runner,Gasoline,5,16,19,17
+2024,TOYOTA 4Runner,Gasoline,5,16,19,17
+2024,TOYOTA 4Runner,Gasoline,5,16,19,17
+2024,TOYOTA 4Runner,Gasoline,5,16,19,17
+2024,TOYOTA 4Runner,Gasoline,5,16,19,17
+2024,TOYOTA Camry,Gasoline,5,22,33,26
+2024,TOYOTA Camry,Gasoline,5,22,33,26
+2024,TOYOTA Camry Hybrid LE,Gasoline,7,51,53,52
+2024,TOYOTA Camry Hybrid LE,Gasoline,7,51,53,52
+2024,TOYOTA Camry Hybrid SE/XLE/XSE,Gasoline,7,44,47,46
+2024,TOYOTA Camry Hybrid SE/XLE/XSE,Gasoline,7,44,47,46
+2024,TOYOTA Camry LE/SE,Gasoline,7,28,39,32
+2024,TOYOTA Camry LE/SE,Gasoline,7,28,39,32
+2024,TOYOTA Camry LE/SE,Gasoline,6,25,34,29
+2024,TOYOTA Camry LE/SE,Gasoline,6,25,34,29
+2024,TOYOTA Camry TRD,Gasoline,5,22,31,25
+2024,TOYOTA Camry TRD,Gasoline,5,22,31,25
+2024,TOYOTA Camry XLE/XSE,Gasoline,7,27,38,31
+2024,TOYOTA Camry XLE/XSE,Gasoline,7,27,38,31
+2024,TOYOTA Camry XLE/XSE,Gasoline,6,25,34,28
+2024,TOYOTA Camry XLE/XSE,Gasoline,6,25,34,28
+2024,TOYOTA Camry XSE,Gasoline,5,22,32,26
+2024,TOYOTA Camry XSE,Gasoline,5,22,32,26
+2024,TOYOTA Corolla,Gasoline,7,31,40,34
+2024,TOYOTA Corolla,Gasoline,7,32,41,35
+2024,TOYOTA Corolla,Gasoline,7,31,40,34
+2024,TOYOTA Corolla,Gasoline,7,32,41,35
+2024,TOYOTA Corolla Cross,Gasoline,7,31,33,32
+2024,TOYOTA Corolla Cross,Gasoline,7,31,33,32
+2024,TOYOTA Corolla Cross,Gasoline,7,29,31,30
+2024,TOYOTA Corolla Cross,Gasoline,7,29,31,30
+2024,TOYOTA Corolla Cross Hybrid,Gasoline,7,45,38,42
+2024,TOYOTA Corolla Cross Hybrid,Gasoline,7,45,38,42
+2024,TOYOTA Corolla Hatchback,Gasoline,7,32,41,35
+2024,TOYOTA Corolla Hatchback,Gasoline,7,32,41,35
+2024,TOYOTA Corolla Hatchback XSE,Gasoline,7,30,38,33
+2024,TOYOTA Corolla Hatchback XSE,Gasoline,7,30,38,33
+2024,TOYOTA Corolla Hybrid,Gasoline,7,50,43,47
+2024,TOYOTA Corolla Hybrid,Gasoline,7,53,46,50
+2024,TOYOTA Corolla Hybrid,Gasoline,7,50,43,47
+2024,TOYOTA Corolla Hybrid,Gasoline,7,53,46,50
+2024,TOYOTA Corolla Hybrid,Gasoline,7,47,41,44
+2024,TOYOTA Corolla Hybrid,Gasoline,7,51,44,48
+2024,TOYOTA Corolla Hybrid,Gasoline,7,47,41,44
+2024,TOYOTA Corolla Hybrid,Gasoline,7,51,44,48
+2024,TOYOTA GR Corolla,Gasoline,5,21,28,24
+2024,TOYOTA GR Corolla,Gasoline,5,21,28,24
+2024,TOYOTA GR86,Gasoline,3,20,26,22
+2024,TOYOTA GR86,Gasoline,3,20,26,22
+2024,TOYOTA GR86,Gasoline,3,21,30,24
+2024,TOYOTA GR86,Gasoline,3,21,30,24
+2024,TOYOTA Grand Highlander AWD LE/XLE,Gasoline,7,21,27,23
+2024,TOYOTA Grand Highlander AWD LE/XLE,Gasoline,7,21,27,23
+2024,TOYOTA Grand Highlander AWD Limited/Platinum,Gasoline,7,20,26,22
+2024,TOYOTA Grand Highlander AWD Limited/Platinum,Gasoline,7,20,26,22
+2024,TOYOTA Grand Highlander Hybrid,Gasoline,7,26,27,27
+2024,TOYOTA Grand Highlander Hybrid,Gasoline,7,26,27,27
+2024,TOYOTA Grand Highlander Hybrid,Gasoline,7,37,34,36
+2024,TOYOTA Grand Highlander Hybrid,Gasoline,7,37,34,36
+2024,TOYOTA Grand Highlander Hybrid,Gasoline,7,36,32,34
+2024,TOYOTA Grand Highlander Hybrid,Gasoline,7,36,32,34
+2024,TOYOTA Grand Highlander Hybrid Limited,Gasoline,7,36,32,34
+2024,TOYOTA Grand Highlander Hybrid Limited,Gasoline,7,36,32,34
+2024,TOYOTA Grand Highlander LE/XLE,Gasoline,7,21,28,24
+2024,TOYOTA Grand Highlander LE/XLE,Gasoline,7,21,28,24
+2024,TOYOTA Grand Highlander Limited,Gasoline,7,21,28,24
+2024,TOYOTA Grand Highlander Limited,Gasoline,7,21,28,24
+2024,TOYOTA Highlander,Gasoline,7,21,28,24
+2024,TOYOTA Highlander,Gasoline,7,22,29,25
+2024,TOYOTA Highlander,Gasoline,7,21,28,24
+2024,TOYOTA Highlander,Gasoline,7,22,29,25
+2024,TOYOTA Highlander,Gasoline,7,21,28,24
+2024,TOYOTA Highlander,Gasoline,7,21,28,24
+2024,TOYOTA Highlander Hybrid,Gasoline,7,36,35,36
+2024,TOYOTA Highlander Hybrid,Gasoline,7,36,35,36
+2024,TOYOTA Highlander Hybrid,Gasoline,7,35,35,35
+2024,TOYOTA Highlander Hybrid,Gasoline,7,35,35,35
+2024,TOYOTA Highlander Hybrid LTD/PLAT,Gasoline,7,35,34,35
+2024,TOYOTA Highlander Hybrid LTD/PLAT,Gasoline,7,35,34,35
+2024,TOYOTA Mirai Limited,Hydrogen,10,67,64,65
+2024,TOYOTA Mirai Limited,Hydrogen,10,67,64,65
+2024,TOYOTA Mirai XLE,Hydrogen,10,76,71,74
+2024,TOYOTA Mirai XLE,Hydrogen,10,76,71,74
+2024,TOYOTA Prius,Gasoline,7,57,56,57
+2024,TOYOTA Prius,Gasoline,7,57,56,57
+2024,TOYOTA Prius,Gasoline,7,53,54,54
+2024,TOYOTA Prius,Gasoline,7,53,54,54
+2024,TOYOTA Prius Prime,Gasoline/Electricity,7,50/125,47/103,48/114
+2024,TOYOTA Prius Prime,Gasoline/Electricity,7,50/125,47/103,48/114
+2024,TOYOTA Prius Prime SE,Gasoline/Electricity,7,53/140,51/115,52/127
+2024,TOYOTA Prius Prime SE,Gasoline/Electricity,7,53/140,51/115,52/127
+2024,TOYOTA Prius XLE/LTD,Gasoline,7,52,52,52
+2024,TOYOTA Prius XLE/LTD,Gasoline,7,52,52,52
+2024,TOYOTA Prius XLE/LTD,Gasoline,7,49,50,49
+2024,TOYOTA Prius XLE/LTD,Gasoline,7,49,50,49
+2024,TOYOTA RAV4,Gasoline,7,27,35,30
+2024,TOYOTA RAV4,Gasoline,7,27,35,30
+2024,TOYOTA RAV4,Gasoline,6,25,33,28
+2024,TOYOTA RAV4,Gasoline,6,27,33,29
+2024,TOYOTA RAV4,Gasoline,6,25,33,28
+2024,TOYOTA RAV4,Gasoline,6,27,33,29
+2024,TOYOTA RAV4 Hybrid,Gasoline,7,41,38,39
+2024,TOYOTA RAV4 Hybrid,Gasoline,7,41,38,39
+2024,TOYOTA RAV4 Hybrid Woodland Edition,Gasoline,7,38,35,37
+2024,TOYOTA RAV4 Hybrid Woodland Edition,Gasoline,7,38,35,37
+2024,TOYOTA RAV4 LE,Gasoline,6,27,34,30
+2024,TOYOTA RAV4 LE,Gasoline,6,27,34,30
+2024,TOYOTA RAV4 PRIME,Gasoline/Electricity,7,40/105,36/84,38/94
+2024,TOYOTA RAV4 PRIME,Gasoline/Electricity,7,40/105,36/84,38/94
+2024,TOYOTA RAV4 TRD Offroad,Gasoline,6,25,32,28
+2024,TOYOTA RAV4 TRD Offroad,Gasoline,6,25,32,28
+2024,TOYOTA Sequoia,Gasoline,5,21,24,22
+2024,TOYOTA Sequoia,Gasoline,5,21,24,22
+2024,TOYOTA Sequoia,Gasoline,5,19,22,20
+2024,TOYOTA Sequoia,Gasoline,5,19,22,20
+2024,TOYOTA Sienna,Gasoline,7,36,36,36
+2024,TOYOTA Sienna,Gasoline,7,36,36,36
+2024,TOYOTA Sienna,Gasoline,7,35,36,35
+2024,TOYOTA Sienna,Gasoline,7,35,36,35
+2024,TOYOTA Supra 2.0,Gasoline,7,25,31,27
+2024,TOYOTA Supra 2.0,Gasoline,7,25,31,27
+2024,TOYOTA Supra 3.0,Gasoline,5,19,27,21
+2024,TOYOTA Supra 3.0,Gasoline,5,19,27,21
+2024,TOYOTA Supra 3.0,Gasoline,5,23,31,26
+2024,TOYOTA Supra 3.0,Gasoline,5,23,31,26
+2024,TOYOTA Tacoma,Gasoline,6,20,26,23
+2024,TOYOTA Tacoma,Gasoline,6,20,26,23
+2024,TOYOTA Tacoma,Gasoline,6,19,24,21
+2024,TOYOTA Tacoma,Gasoline,6,19,24,21
+2024,TOYOTA Tacoma MT,Gasoline,5,18,23,20
+2024,TOYOTA Tacoma MT,Gasoline,5,18,23,20
+2024,TOYOTA Tacoma SR5/Sport/Offroad/Limited,Gasoline,6,19,23,21
+2024,TOYOTA Tacoma SR5/Sport/Offroad/Limited,Gasoline,6,19,24,21
+2024,TOYOTA Tacoma SR5/Sport/Offroad/Limited,Gasoline,6,20,23,21
+2024,TOYOTA Tacoma SR5/Sport/Offroad/Limited,Gasoline,6,19,23,21
+2024,TOYOTA Tacoma SR5/Sport/Offroad/Limited,Gasoline,6,19,24,21
+2024,TOYOTA Tacoma SR5/Sport/Offroad/Limited,Gasoline,6,20,23,21
+2024,TOYOTA Tacoma SR5/Sport/PreRunner,Gasoline,6,20,24,22
+2024,TOYOTA Tacoma SR5/Sport/PreRunner,Gasoline,6,21,26,23
+2024,TOYOTA Tacoma SR5/Sport/PreRunner,Gasoline,6,20,24,22
+2024,TOYOTA Tacoma SR5/Sport/PreRunner,Gasoline,6,21,26,23
+2024,TOYOTA Toyota Crown,Gasoline,7,29,32,30
+2024,TOYOTA Toyota Crown,Gasoline,7,29,32,30
+2024,TOYOTA Toyota Crown,Gasoline,7,42,41,41
+2024,TOYOTA Toyota Crown,Gasoline,7,42,41,41
+2024,TOYOTA Tundra,Gasoline,5,20,24,22
+2024,TOYOTA Tundra,Gasoline,5,20,24,22
+2024,TOYOTA Tundra,Gasoline,5,18,23,20
+2024,TOYOTA Tundra,Gasoline,5,18,23,20
+2024,TOYOTA Tundra,Gasoline,5,18,23,20
+2024,TOYOTA Tundra,Gasoline,5,18,23,20
+2024,TOYOTA Tundra,Gasoline,5,19,22,20
+2024,TOYOTA Tundra,Gasoline,5,19,22,20
+2024,TOYOTA Tundra,Gasoline,5,17,22,19
+2024,TOYOTA Tundra,Gasoline,5,17,23,19
+2024,TOYOTA Tundra,Gasoline,5,17,22,19
+2024,TOYOTA Tundra,Gasoline,5,17,23,19
+2024,TOYOTA Tundra PRO,Gasoline,5,18,20,19
+2024,TOYOTA Tundra PRO,Gasoline,5,18,20,19
+2024,TOYOTA Venza,Gasoline,7,40,37,39
+2024,TOYOTA Venza,Gasoline,7,40,37,39
+2024,TOYOTA bZ4X,Electricity,10,131,107,119
+2024,TOYOTA bZ4X,Electricity,10,131,107,119
+2024,TOYOTA bZ4X,Electricity,10,114,94,104
+2024,TOYOTA bZ4X,Electricity,10,114,94,104
+2024,TOYOTA bZ4X Limited,Electricity,10,121,102,112
+2024,TOYOTA bZ4X Limited,Electricity,10,121,102,112
+2024,TOYOTA bZ4X Limited,Electricity,10,112,92,102
+2024,TOYOTA bZ4X Limited,Electricity,10,112,92,102
+2025,TOYOTA Camry HEV AWD LE,Gasoline,6,51,49,50
+2025,TOYOTA Camry HEV AWD LE,Gasoline,6,51,49,50
+2025,TOYOTA Camry HEV AWD SE/XLE,Gasoline,6,46,46,46
+2025,TOYOTA Camry HEV AWD SE/XLE,Gasoline,6,46,46,46
+2025,TOYOTA Camry HEV AWD XSE,Gasoline,6,44,43,44
+2025,TOYOTA Camry HEV AWD XSE,Gasoline,6,44,43,44
+2025,TOYOTA Camry HEV FF LE,Gasoline,6,53,50,51
+2025,TOYOTA Camry HEV FF LE,Gasoline,6,53,50,51
+2025,TOYOTA Camry HEV FF SE/XLE/XSE,Gasoline,6,48,47,47
+2025,TOYOTA Camry HEV FF SE/XLE/XSE,Gasoline,6,48,47,47
+2025,TOYOTA Corolla Hatchback,Gasoline,6,32,41,35
+2025,TOYOTA Corolla Hatchback,Gasoline,6,32,41,35
+2025,TOYOTA Corolla Hatchback XSE,Gasoline,6,30,38,33
+2025,TOYOTA Corolla Hatchback XSE,Gasoline,6,30,38,33
+2025,TOYOTA Crown,Gasoline,6,29,32,30
+2025,TOYOTA Crown,Gasoline,6,29,32,30
+2025,TOYOTA Crown,Gasoline,6,42,41,41
+2025,TOYOTA Crown,Gasoline,6,42,41,41
+2025,TOYOTA Crown Signia,Gasoline,6,39,37,38
+2025,TOYOTA Crown Signia,Gasoline,6,39,37,38
+2025,TOYOTA Supra 2.0,Gasoline,6,25,31,27
+2025,TOYOTA Supra 2.0,Gasoline,6,25,31,27
+2025,TOYOTA Supra 3.0,Gasoline,4,19,27,21
+2025,TOYOTA Supra 3.0,Gasoline,4,19,27,21
+2025,TOYOTA Supra 3.0,Gasoline,4,23,31,26
+2025,TOYOTA Supra 3.0,Gasoline,4,23,31,26
