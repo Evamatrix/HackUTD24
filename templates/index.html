@@ -43,7 +43,7 @@
                     url: '/api/vehicles',
                     data: $(this).serialize(),
                     success: function(data) {
-                        let resultsHtml = '<table><tr><th>Year</th><th>Model</th><th>Fuel Type</th><th>MPG City</th><th>MPG Highway</th><th>MPG Combined</th></tr>';
+                        let resultsHtml = '<table><tr><th>Year</th><th>Model</th><th>Fuel</th><th>City MPG</th><th>Hwy MPG</th><th>Cmb MPG</th></tr>';
                         data.forEach(function(vehicle) {
                             resultsHtml += `<tr>
                                 <td>${vehicle.Year}</td>
